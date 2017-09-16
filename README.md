@@ -1,2 +1,2 @@
 # Associations
-Associations game (vk bot community)
+Associations game bot (text to https://vk.com/association_game_bot) to play!
